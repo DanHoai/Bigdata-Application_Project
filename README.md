@@ -5,4 +5,4 @@ The project comprises:
 - Using VADER, SentiWordNet, and TextBlob to analyze sentiment of comments on comments_data_channels.csv, then finding out which Channel has the most number of positive comments.  
 - Using Named-Entity-recognition to find 10 people who appears most in comments.
 - Clustering titles of videos
-- Using BERT to summarize description.
+- Using BERT to summarize description variable.
